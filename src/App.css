@@ -236,10 +236,10 @@ span{
     margin-left: 4%;
   }
   .Search {
-    width:75%;
+    width:77%;
   }
   .Search input{
-    width: 15rem;
+    width: 12rem;
     height:60%; 
   }
   .Movie-Card{
@@ -261,7 +261,7 @@ span{
    text-align: center;
   }
   .pagination a {
-    padding: 6px 6px;
+    padding: 6px 4px;
     margin: .1rem;
   }
   .disply-more{
@@ -281,11 +281,11 @@ span{
   border-color: #ddd;
 }
 .high-deta img{
-  width: 12rem;
+  width:9rem;
   padding-left:0rem;
 }
 .high-deta .text-deta{
-  padding:1.5rem;
+  padding:1rem;
 }
 
 .mid-deta{
